@@ -1,4 +1,8 @@
-# HDCS
+## WSDM27_HDCS
+
+Experiments codes for the paper:
+
+Chaohua Yang, Kailiang Hao, Dugang Liu, Xing Tang, Xiuqiang He, Zhong Ming. Hierarchical Differentiated Cross-scenario Sharing for multi-scenario recommendation
 
 PyTorch implementation of **Hierarchical Differentiated Cross-scenario Sharing** for multi-scenario recommendation on AliCCP (3 scenarios) and AliMama (4 scenarios). Supports DNN, DeepFM, and DCN backbones.
 
